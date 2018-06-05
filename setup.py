@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="santosh.venk@gmail.com",
     description="Type Checking Function Arguments for Humans™",
     long_description=long_description,
-    long_description_type="text/markdown",
+    long_description_content_type="text/markdown",
     url="https://github.com/onstash/typy_checker",
     packages=setuptools.find_packages(),
     classifiers=(
