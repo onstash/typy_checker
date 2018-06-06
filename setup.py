@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="typy_checker",
-    version="0.0.1",
+    version="0.4",
     author="Santosh Venkatraman",
     author_email="santosh.venk@gmail.com",
     description="Type Checking Function Arguments for Humans™",
