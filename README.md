@@ -9,13 +9,21 @@ Typy_checker is a library that checks the type of the arguments of a given funct
 * Python 3
 
     ```bash
-    pip3 install typy_checker
+    git clone git@github.com:onstash/typy_checker.git
+    # or
+    git clone https://github.com/onstash/typy_checker.git
+    cd typy_checker
+    python3 setup.py install
     ```
 
 * Python 2
 
     ```bash
-    pip install typy_checker
+    git clone git@github.com:onstash/typy_checker.git
+    # or
+    git clone https://github.com/onstash/typy_checker.git
+    cd typy_checker
+    python setup.py install
     ```
 
 ## How to use it?
