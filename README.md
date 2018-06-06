@@ -33,4 +33,4 @@ Calling `add(1, 2)` will give the intended result while calling `add([2], [3])` 
 
 ## How to contribute?
 
-You can contribute in many ways. Head over to the GitHub repo's issues page [here](https://github.com/onstash/typy_checker/issues), create an issue if it's there and let's discuss. This repo follows Kent Dodds' [all-contributors](https://github.com/kentcdodds/all-contributors) philosophy.
+You can contribute in many ways. Head over to the GitHub repo's issues page [here](https://github.com/onstash/typy_checker/issues), create an issue if it's not there and let's discuss. This repo follows Kent Dodds' [all-contributors](https://github.com/kentcdodds/all-contributors) philosophy.
