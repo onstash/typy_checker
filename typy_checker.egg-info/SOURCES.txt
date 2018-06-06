@@ -1,7 +1,7 @@
 README.md
 setup.py
-type_checker/__init__.py
-type_checker/main.py
+typy_checker/__init__.py
+typy_checker/main.py
 typy_checker.egg-info/PKG-INFO
 typy_checker.egg-info/SOURCES.txt
 typy_checker.egg-info/dependency_links.txt

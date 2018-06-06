@@ -1,1 +1,1 @@
-type_checker
+typy_checker
