@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: typy-checker
-Version: 0.0.1
+Version: 0.4
 Summary: Type Checking Function Arguments for Humans™
 Home-page: https://github.com/onstash/typy_checker
 Author: Santosh Venkatraman
@@ -41,7 +41,8 @@ Description: # Typy Checker
         
         ## How to contribute?
         
-        You can contribute in many ways. Head over to the GitHub repo's issues page [here](https://github.com/onstash/typy_checker/issues), create an issue if it's there and let's discuss. This repo follows Kent Dodds' [all-contributors](https://github.com/kentcdodds/all-contributors) philosophy.
+        You can contribute in many ways. Head over to the GitHub repo's issues page [here](https://github.com/onstash/typy_checker/issues), create an issue if it's not there and let's discuss. This repo follows Kent Dodds' [all-contributors](https://github.com/kentcdodds/all-contributors) philosophy.
+
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
